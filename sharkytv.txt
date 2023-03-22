@@ -1,0 +1,20 @@
+#EXTINF:-1,US: Smithsonian
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208745
+#EXTINF:-1,UK: BBC 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133
+#EXTINF:-1,UK: BBC 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16135
+#EXTINF:-1,UK: BBC 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137
+#EXTINF:-1,UK: Channel 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104009
+#EXTINF:-1,UK: Channel 5
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16118
+#EXTINF:-1,UK: ITV 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104026
+#EXTINF:-1,UK: ITV 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104028
+#EXTINF:-1,UK: ITV 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16111
+#EXTINF:-1,UK: ITV 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/35156
